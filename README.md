@@ -14,7 +14,7 @@ Arvestuse saamiseks on vaja teha
 
   <a href="readme-top">Ülesse</a>
 
-  WP-port
+WP-port
+<a href= "https://nikitakonkin24.thkit.ee/wp/" target="_blank">WP-list</a>
 
-<a href="https://nikitakonkin24.thkit.ee/wp/"target="_blank>WP-list</a>
 ![image](https://github.com/user-attachments/assets/d01cc94d-540b-4ba5-9778-4dd3a511f8a9)
